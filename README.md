@@ -39,6 +39,8 @@ Reinforcement Learning for Games
 - Multi-Agent Reinforcement Learning
 
 Specific learning objectives for the course are:
+
+
 •	Search
 •	Game theory
 •	Game Trees and Minimax
